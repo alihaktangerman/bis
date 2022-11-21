@@ -1,5 +1,5 @@
-//source : 
-//https://www.jmeiners.com/efficient-programming-with-components/code/binary_insertion_sort.h
+// source : 
+// https://www.jmeiners.com/efficient-programming-with-components/code/binary_insertion_sort.h
 
 #ifndef BINARY_INSERTION_SORT_H
 #define BINARY_INSERTION_SORT_H
